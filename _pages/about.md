@@ -1,30 +1,48 @@
 ---
 permalink: /
-title: "Dias Kabdualiev"
+title: "Dias Kabdualiyev"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an Information Systems student at SDU University in Almaty, Kazakhstan. I am building a focused academic portfolio for coursework, software projects, research notes, and technical writing.
+I am a Robotics / Physical AI Engineer based in Almaty, Kazakhstan.
 
-My current interests are software engineering, data-driven applications, web systems, and applied research. This site is based on the Academic Pages theme and is designed to be easy to update as new projects, papers, talks, and coursework are added.
+I work across hardware prototyping, embedded systems, ROS2, simulation, perception, educational robotics kits, and robotics lab infrastructure.
 
-Research and Engineering Interests
+My current focus is building practical robotics systems that connect real hardware with modern AI and robotics software.
+
+Focus Areas
 ======
 
-* Full-stack web development and deployment workflows
-* Data analysis, automation, and reproducible technical notes
-* Academic writing, project documentation, and portfolio presentation
-* Practical software tools that solve real user problems
+* Physical AI and embodied robotics
+* ROS2-based robot systems
+* Mobile manipulation
+* Simulation and digital twins
+* Embedded systems and sensors
+* Educational robotics platforms
+* Linux and robotics lab infrastructure
 
-Selected Work
+Selected Projects
 ======
 
-* See the [Portfolio](/portfolio/portfolio/) page for project summaries.
-* See the [CV](/portfolio/cv/) page for education, experience, and skills.
-* See the [Notes](/portfolio/year-archive/) page for future technical posts.
+* Unitree G1 Physical AI Championship pipeline
+* XLeRobot Physical AI lab stack
+* Educational robotics kits
+
+[View all projects](/portfolio/)
+
+Skills
+======
+
+**Robotics:** ROS2, Nav2, Gazebo, MuJoCo, SLAM, navigation
+
+**Hardware:** ESP32, Arduino, Raspberry Pi, Jetson, sensors, motor drivers
+
+**Infrastructure:** Linux, Docker, Proxmox, networking, documentation
+
+**Fabrication:** Fusion 360, 3D printing, laser cutting
 
 Contact
 ======
