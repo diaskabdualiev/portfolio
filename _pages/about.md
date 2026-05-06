@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am building a focused academic portfolio for coursework, software projects, research notes, and technical writing.
+I am an Information Systems student at SDU University in Almaty, Kazakhstan. I am building a focused academic portfolio for coursework, software projects, research notes, and technical writing.
 
 My current interests are software engineering, data-driven applications, web systems, and applied research. This site is based on the Academic Pages theme and is designed to be easy to update as new projects, papers, talks, and coursework are added.
 
@@ -30,3 +30,7 @@ Contact
 ======
 
 The fastest way to reach me is by email: [dias.31407@gmail.com](mailto:dias.31407@gmail.com).
+
+* LinkedIn: [diaskabdualiyev](https://www.linkedin.com/in/diaskabdualiyev/)
+* Telegram: [@gr00tn](https://t.me/gr00tn)
+* ORCID: [0009-0001-3108-7458](https://orcid.org/0009-0001-3108-7458)

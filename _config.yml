@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Dias Kabdualiev"
 title_separator          : "-"
 name                     : &name "Dias Kabdualiev"
-description              : &description "Academic portfolio, projects, CV, and research notes."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Information Systems student at SDU University. Academic portfolio, projects, CV, and research notes."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://diaskabdualiev.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Dias Kabdualiev"
   pronouns         : # example: "she/her"  
-  bio              : "Student and developer building practical software, research notes, and academic projects."
+  bio              : "Information Systems student at SDU University building practical software, research notes, and academic projects."
   location         : "Almaty, Kazakhstan"
-  employer         :
+  employer         : "SDU University"
   uri              : "https://diaskabdualiev.github.io/portfolio/"
   email            : "dias.31407@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    :
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0009-0001-3108-7458"
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
@@ -66,13 +66,13 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "diaskabdualiyev"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "https://t.me/gr00tn"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
@@ -152,6 +152,8 @@ social:
   name                   : "Dias Kabdualiev" # If the user or organization name differs from the site's name
   links:
     - "https://github.com/diaskabdualiev"
+    - "https://www.linkedin.com/in/diaskabdualiyev/"
+    - "https://orcid.org/0009-0001-3108-7458"
 
 
 # Analytics
