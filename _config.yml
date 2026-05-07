@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dias Kabdualiev"
+title                    : "Dias Kabdualiyev"
 title_separator          : "-"
-name                     : &name "Dias Kabdualiev"
-description              : &description "Information Systems student at SDU University. Academic portfolio, projects, CV, and research notes."   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Dias Kabdualiyev"
+description              : &description "Robotics / Physical AI Engineer based in Almaty, Kazakhstan."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://diaskabdualiev.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
@@ -23,10 +23,10 @@ repository               : "diaskabdualiev/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Dias Kabdualiev"
+  avatar           : "dias-kabdualiyev.jpg"
+  name             : "Dias Kabdualiyev"
   pronouns         : # example: "she/her"  
-  bio              : "Information Systems student at SDU University building practical software, research notes, and academic projects."
+  bio              : "Robotics / Physical AI Engineer building practical robotics systems."
   location         : "Almaty, Kazakhstan"
   employer         : "SDU University"
   uri              : "https://diaskabdualiev.github.io/portfolio/"
@@ -149,7 +149,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : "Dias Kabdualiev" # If the user or organization name differs from the site's name
+  name                   : "Dias Kabdualiyev" # If the user or organization name differs from the site's name
   links:
     - "https://github.com/diaskabdualiev"
     - "https://www.linkedin.com/in/diaskabdualiyev/"
