@@ -12,7 +12,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: /assets/files/resume-dias.pdf
 
   - title: "Notes"
     url: /year-archive/

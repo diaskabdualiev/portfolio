@@ -1,16 +1,22 @@
 ---
-layout: archive
+layout: null
 title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-[Open CV as PDF](/assets/files/resume-dias.pdf)
-
-<object data="/assets/files/resume-dias.pdf" type="application/pdf" width="100%" height="900">
-  <p><a href="/assets/files/resume-dias.pdf">Open CV as PDF</a></p>
-</object>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ base_path }}/assets/files/resume-dias.pdf">
+    <link rel="canonical" href="{{ base_path }}/assets/files/resume-dias.pdf">
+    <title>CV</title>
+  </head>
+  <body>
+    <p><a href="{{ base_path }}/assets/files/resume-dias.pdf">Open CV as PDF</a></p>
+  </body>
+</html>
