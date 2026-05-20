@@ -9,7 +9,7 @@ date: 2026-04-01
 # header:
 #   teaser: projects/unitree-g1-visual-search/cover.jpg
 # video_url: https://www.youtube.com/embed/VIDEO_ID      # YouTube/Vimeo EMBED url
-# video_file: projects/unitree-g1-visual-search/demo.mp4 # OR a local .mp4
+video_file: projects/unitree-g1-visual-search/demo.mp4
 # gallery:
 #   - image_path: projects/unitree-g1-visual-search/1.jpg
 #     url: projects/unitree-g1-visual-search/1.jpg

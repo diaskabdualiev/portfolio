@@ -51,6 +51,7 @@ Suleyman Demirel University (SDU), Kazakhstan
 ## Selected Projects
 
 * **[Autonomous Visual Search Pipeline for Unitree G1](/portfolio/unitree-g1-visual-search/)** (2026) — perception-and-control pipeline (OpenCV + FSM + DDS) for a Unitree G1 humanoid in MuJoCo.
+* **[Unitree G1 — Autonomous Pick-and-Deliver Pipeline](/portfolio/unitree-g1-pick-and-deliver/)** (2026) — full task cycle: autonomous walking, box search, grasp, return, and handover on a real robot.
 * **[Unitree G1 Robotics Simulation & Sim-to-Real Workflow](/portfolio/unitree-g1-sim-to-real/)** (2026) — Isaac Lab, MuJoCo, Unitree SDK2, locomotion/mimic training, teleoperation.
 * **[Drone Simulation Stack](/portfolio/drone-simulation-stack/)** (2025) — autonomous drone racing on ROS 2, Gazebo, PX4, MAVLink, QGroundControl.
 * **[Educational Robotics Kits](/portfolio/educational-robotics-kits/)** (2025 – 2026) — quadruped & manipulator kits for schools, full hardware-to-software cycle.

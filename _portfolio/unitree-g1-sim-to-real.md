@@ -9,7 +9,7 @@ date: 2026-02-01
 # header:
 #   teaser: projects/unitree-g1-sim-to-real/cover.jpg
 # video_url: https://www.youtube.com/embed/VIDEO_ID
-# video_file: projects/unitree-g1-sim-to-real/demo.mp4
+video_file: projects/unitree-g1-sim-to-real/demo.mp4
 # gallery:
 #   - image_path: projects/unitree-g1-sim-to-real/1.jpg
 #     url: projects/unitree-g1-sim-to-real/1.jpg
