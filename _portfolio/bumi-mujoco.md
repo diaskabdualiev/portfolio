@@ -26,9 +26,6 @@ The equivalent of `unitree_mujoco` for the **Noetix Bumi** humanoid: the simulat
 - **MuJoCo model and scene** for Bumi, used to test controllers before running them on hardware.
 - Documentation in English and Russian.
 
-## Demo
-
-{% if page.video_url or page.video_file %}{% include video.html %}{% else %}*🎥 Video demo coming soon.*{% endif %}
 
 ## Gallery
 

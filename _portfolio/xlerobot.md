@@ -27,9 +27,6 @@ Assembling and launching **XLeRobot**, an open robotics platform for Physical AI
 
 **Next step:** collect datasets and develop robot skills through operator demonstrations.
 
-## Demo
-
-{% if page.video_url or page.video_file %}{% include video.html %}{% else %}*🎥 Video demo coming soon.*{% endif %}
 
 ## Gallery
 

@@ -58,9 +58,6 @@ As **co-founder of Alashed LLC**, I build **educational robotics kits** — a qu
 - Built prototypes on **Raspberry Pi 4/5 and Pico**, and produced **assembly instructions** for classroom and demonstration use.
 - Own the end-to-end pipeline: hardware concept → control logic → fabrication → documentation.
 
-## Demo
-
-{% if page.video_url or page.video_file %}{% include video.html %}{% else %}*🎥 Video demo coming soon — drop a clip into `images/projects/educational-robotics-kits/` and set `video_url`/`video_file` in the front matter.*{% endif %}
 
 ## Gallery
 
