@@ -47,6 +47,13 @@ Skills
 
 **Fabrication:** Fusion 360, 3D printing, laser cutting
 
+Certifications & Training
+======
+
+* AWS Academy: Cloud Foundations (trained)
+* Cisco Networking Academy: CCNA Enterprise Networking, Security & Automation (verified)
+* Red Hat Academy: Red Hat System Administration I (course attendance)
+
 Contact
 ======
 
