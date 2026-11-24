@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Robotics / Physical AI Engineer based in Almaty, Kazakhstan.
 
-I work as an engineer at **Karavan** (autonomous DJI drone inspection and computer vision for mining sites) and study for an MSc at **METU** (International Engineering Technological University, Almaty). BSc in Information Systems, SDU University, 2026.
+I work as an engineer at **Caravan Resources** (autonomous DJI drone inspection and computer vision for mining sites) and study for an MSc at **METU** (International Engineering Technological University, Almaty). BSc in Information Systems, SDU University, 2026.
 
 I work across hardware prototyping, embedded systems, ROS2, simulation, perception, educational robotics kits, and robotics lab infrastructure.
 
