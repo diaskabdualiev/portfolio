@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Robotics / Physical AI Engineer based in Almaty, Kazakhstan.
 
+I work as an engineer at **Karavan** (autonomous DJI drone inspection and computer vision for mining sites) and study for an MSc at **METU** (International Engineering Technological University, Almaty). BSc in Information Systems, SDU University, 2026.
+
 I work across hardware prototyping, embedded systems, ROS2, simulation, perception, educational robotics kits, and robotics lab infrastructure.
 
 My current focus is building practical robotics systems that connect real hardware with modern AI and robotics software.
@@ -63,5 +65,5 @@ The fastest way to reach me is by email: [dias.31407@gmail.com](mailto:dias.3140
 * GitHub: [diaskabdualiev](https://github.com/diaskabdualiev)
 * YouTube: [Dias Kabdualiev](https://www.youtube.com/channel/UCd2bUZjmpDzyLR6xrpNSnqQ)
 * LinkedIn: [diaskabdualiyev](https://www.linkedin.com/in/diaskabdualiyev/)
-* Telegram: [@gr00tn](https://t.me/gr00tn)
+* Telegram: [@groot08](https://t.me/groot08)
 * ORCID: [0009-0001-3108-7458](https://orcid.org/0009-0001-3108-7458)
