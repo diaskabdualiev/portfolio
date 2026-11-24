@@ -30,6 +30,7 @@ Selected Projects
 * [🥈 Physical AI Championship 2026, 2nd place: Unitree G1 pick-and-deliver](https://diaskabdualiev.github.io/portfolio/portfolio/unitree-g1-pick-and-deliver/) ([final run](https://www.youtube.com/watch?v=g921UqeuDs4))
 * [Unitree Go2 RL locomotion in MuJoCo, running in the browser](https://diaskabdualiev.github.io/portfolio/portfolio/unitree-go2-rl-mujoco/) ([live demo](https://diaskabdualiev.github.io/go2-web-mujoco/))
 * [Unitree G1 sim-to-real workflow](https://diaskabdualiev.github.io/portfolio/portfolio/unitree-g1-sim-to-real/)
+* [Bumi Voice AI: voice assistant and voice-to-motion for a humanoid](https://diaskabdualiev.github.io/portfolio/portfolio/bumi-voice-ai/)
 * [Noetix Bumi humanoid: MuJoCo simulator with a DDS bridge](https://diaskabdualiev.github.io/portfolio/portfolio/bumi-mujoco/)
 * [XLeRobot Physical AI lab stack](https://diaskabdualiev.github.io/portfolio/portfolio/xlerobot/)
 * [Educational robotics kits](https://diaskabdualiev.github.io/portfolio/portfolio/educational-robotics-kits/)
