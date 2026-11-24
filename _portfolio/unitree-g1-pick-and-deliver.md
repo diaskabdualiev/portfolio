@@ -1,6 +1,6 @@
 ---
-title: "Unitree G1 — Autonomous Pick-and-Deliver Pipeline"
-excerpt: "Full-task pipeline on a Unitree G1 humanoid: autonomous walking, object search, grasping, return, and handover — focused on integrating perception, control, and behavior logic for a real robot."
+title: "Physical AI Championship 2026 (2nd place) — Unitree G1 Pick-and-Deliver"
+excerpt: "2nd place at Physical AI Championship 2026. Full-task pipeline on a Unitree G1 humanoid: autonomous walking, object search, grasping, return, and handover — focused on integrating perception, control, and behavior logic for a real robot."
 collection: portfolio
 permalink: /portfolio/unitree-g1-pick-and-deliver/
 date: 2026-03-01
@@ -16,9 +16,22 @@ video_file: projects/unitree-g1-pick-and-deliver/demo.mp4
 #   - image_path: projects/unitree-g1-pick-and-deliver/2.jpg
 #     url: projects/unitree-g1-pick-and-deliver/2.jpg
 #     title: "Object handover"
+header:
+  teaser: projects/unitree-g1-pick-and-deliver/2.jpg
+gallery:
+  - image_path: projects/unitree-g1-pick-and-deliver/1.jpg
+    url: projects/unitree-g1-pick-and-deliver/1.jpg
+    title: "Competition scene in MuJoCo"
+  - image_path: projects/unitree-g1-pick-and-deliver/2.jpg
+    url: projects/unitree-g1-pick-and-deliver/2.jpg
+    title: "Final run at Physical AI Championship 2026"
 ---
 
 **Role:** Robotics software engineer · **Year:** 2026 · **Platform:** Unitree G1
+
+**Result:** 🥈 **2nd place, Physical AI Championship 2026** (Unitree G1 track).
+
+**Final run:** [YouTube](https://www.youtube.com/watch?v=g921UqeuDs4) · **Demo:** [YouTube Short](https://www.youtube.com/shorts/ItpIVivOTbk) · **Code:** [physical_ai_championship](https://github.com/diaskabdualiev/physical_ai_championship)
 
 ## Overview
 

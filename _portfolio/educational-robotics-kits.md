@@ -17,9 +17,35 @@ date: 2025-06-01
 #   - image_path: projects/educational-robotics-kits/2.jpg
 #     url: projects/educational-robotics-kits/2.jpg
 #     title: "Manipulator kit"
+header:
+  teaser: projects/educational-robotics-kits/1.jpg
+gallery:
+  - image_path: projects/educational-robotics-kits/1.jpg
+    url: projects/educational-robotics-kits/1.jpg
+    title: "Robotic manipulator kit"
+  - image_path: projects/educational-robotics-kits/2.jpg
+    url: projects/educational-robotics-kits/2.jpg
+    title: "Quadruped kit prototype"
+  - image_path: projects/educational-robotics-kits/3.jpg
+    url: projects/educational-robotics-kits/3.jpg
+    title: "Quadruped kit CAD"
+  - image_path: projects/educational-robotics-kits/4.jpg
+    url: projects/educational-robotics-kits/4.jpg
+    title: "Raspberry Pi starter kit"
+  - image_path: projects/educational-robotics-kits/5.jpg
+    url: projects/educational-robotics-kits/5.jpg
+    title: "Mecanum-wheel car kit"
+  - image_path: projects/educational-robotics-kits/6.jpg
+    url: projects/educational-robotics-kits/6.jpg
+    title: "Alashed kit packaging"
+  - image_path: projects/educational-robotics-kits/7.jpg
+    url: projects/educational-robotics-kits/7.jpg
+    title: "Kit case"
 ---
 
 **Role:** Co-Founder / Robotics Engineer, Alashed LLC · **Years:** 2025 – 2026 · **Stack:** Raspberry Pi 4/5 & Pico, C/C++, Python, motion control, 3D printing
+
+**Code:** [AlashSpot](https://github.com/diaskabdualiev/AlashSpot) (ESP32 quadruped based on Spot Micro)
 
 ## Overview
 

@@ -17,9 +17,17 @@ video_file: projects/unitree-g1-visual-search/demo.mp4
 #   - image_path: projects/unitree-g1-visual-search/2.jpg
 #     url: projects/unitree-g1-visual-search/2.jpg
 #     title: "Approach behavior in MuJoCo"
+header:
+  teaser: projects/unitree-g1-visual-search/1.jpg
+gallery:
+  - image_path: projects/unitree-g1-visual-search/1.jpg
+    url: projects/unitree-g1-visual-search/1.jpg
+    title: "Box search scene in MuJoCo"
 ---
 
 **Role:** Robotics software engineer · **Year:** 2026 · **Stack:** C++, MuJoCo, OpenCV, unitree_sdk2, DDS, YAML, CMake
+
+**Code:** [physical_ai_championship](https://github.com/diaskabdualiev/physical_ai_championship) (C++, MuJoCo, OpenCV, finite-state control)
 
 ## Overview
 

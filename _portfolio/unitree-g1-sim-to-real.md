@@ -17,9 +17,26 @@ video_file: projects/unitree-g1-sim-to-real/demo.mp4
 #   - image_path: projects/unitree-g1-sim-to-real/2.jpg
 #     url: projects/unitree-g1-sim-to-real/2.jpg
 #     title: "Teleoperation setup"
+header:
+  teaser: projects/unitree-g1-sim-to-real/4.jpg
+gallery:
+  - image_path: projects/unitree-g1-sim-to-real/1.jpg
+    url: projects/unitree-g1-sim-to-real/1.jpg
+    title: "Motion capture"
+  - image_path: projects/unitree-g1-sim-to-real/2.jpg
+    url: projects/unitree-g1-sim-to-real/2.jpg
+    title: "Training in Isaac Lab"
+  - image_path: projects/unitree-g1-sim-to-real/3.jpg
+    url: projects/unitree-g1-sim-to-real/3.jpg
+    title: "Policy check in MuJoCo with a gamepad"
+  - image_path: projects/unitree-g1-sim-to-real/4.jpg
+    url: projects/unitree-g1-sim-to-real/4.jpg
+    title: "Deployment on the physical G1"
 ---
 
 **Role:** Robotics software engineer · **Year:** 2026 · **Stack:** Isaac Lab, MuJoCo, Unitree SDK2, DDS, Python, C++
+
+**Pipeline:** motion capture → Isaac Lab → MuJoCo → physical robot · **Code:** [unitree_rl_lab](https://github.com/diaskabdualiev/unitree_rl_lab)
 
 ## Overview
 

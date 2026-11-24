@@ -27,11 +27,14 @@ Focus Areas
 Selected Projects
 ======
 
-* Unitree G1 Physical AI Championship pipeline
-* XLeRobot Physical AI lab stack
-* Educational robotics kits
+* [🥈 Physical AI Championship 2026, 2nd place: Unitree G1 pick-and-deliver](https://diaskabdualiev.github.io/portfolio/portfolio/unitree-g1-pick-and-deliver/) ([final run](https://www.youtube.com/watch?v=g921UqeuDs4))
+* [Unitree Go2 RL locomotion in MuJoCo, running in the browser](https://diaskabdualiev.github.io/portfolio/portfolio/unitree-go2-rl-mujoco/) ([live demo](https://diaskabdualiev.github.io/go2-web-mujoco/))
+* [Unitree G1 sim-to-real workflow](https://diaskabdualiev.github.io/portfolio/portfolio/unitree-g1-sim-to-real/)
+* [Noetix Bumi humanoid: MuJoCo simulator with a DDS bridge](https://diaskabdualiev.github.io/portfolio/portfolio/bumi-mujoco/)
+* [XLeRobot Physical AI lab stack](https://diaskabdualiev.github.io/portfolio/portfolio/xlerobot/)
+* [Educational robotics kits](https://diaskabdualiev.github.io/portfolio/portfolio/educational-robotics-kits/)
 
-[View all projects](/portfolio/)
+[View all projects](https://diaskabdualiev.github.io/portfolio/portfolio/)
 
 Skills
 ======
@@ -49,6 +52,8 @@ Contact
 
 The fastest way to reach me is by email: [dias.31407@gmail.com](mailto:dias.31407@gmail.com).
 
+* GitHub: [diaskabdualiev](https://github.com/diaskabdualiev)
+* YouTube: [Dias Kabdualiev](https://www.youtube.com/channel/UCd2bUZjmpDzyLR6xrpNSnqQ)
 * LinkedIn: [diaskabdualiyev](https://www.linkedin.com/in/diaskabdualiyev/)
 * Telegram: [@gr00tn](https://t.me/gr00tn)
 * ORCID: [0009-0001-3108-7458](https://orcid.org/0009-0001-3108-7458)
